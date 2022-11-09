@@ -18,7 +18,7 @@ dependencies {
 
 sonarqube {
     properties {
-        property 'sonar.host.url', 'http://107.21.68.224/:9000'
+        property 'sonar.host.url', 'http://107.21.68.224:9000'
     }
 }
 
